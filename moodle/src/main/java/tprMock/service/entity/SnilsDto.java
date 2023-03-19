@@ -10,8 +10,8 @@ import java.util.stream.Stream;
 @Data
 public class SnilsDto {
     private String message = "success";
-    @NotBlank(message = "empty snils")
-    @Pattern(regexp = "^\\d{3}-\\d{3}-\\d{3} \\d{2}", message = "validation error")
+    @NotBlank (message = "NULL snils value")
+    @Pattern(regexp = "^\\d{3}-\\d{3}-\\d{3} \\d{2}", message = "validation snils error")
     private String snils;
 
 /*    public String checkPattern() {
