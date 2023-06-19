@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad597b6-cdc1-486e-8ec5-5cb216a863dd" name="Changes" comment="" />
+    <list default="true" id="3ad597b6-cdc1-486e-8ec5-5cb216a863dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/moodle/prometheus.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moodle/src/main/java/tprMock/service/entity/SnillsDtoRq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moodle/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/src/main/java/tprMock/service/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/src/main/java/tprMock/service/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/src/main/java/tprMock/service/entity/SnilsDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/src/main/java/tprMock/service/entity/SnilsDtoRs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/target/classes/tprMock/service/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/target/classes/tprMock/service/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moodle/target/classes/tprMock/service/entity/SnilsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/moodle/target/classes/tprMock/service/entity/SnilsDto.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/aod/moodleMock/moodle"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
