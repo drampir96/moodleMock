@@ -12,3 +12,4 @@ spring:
     enabled: true
     default-domain: myapp
 
+
